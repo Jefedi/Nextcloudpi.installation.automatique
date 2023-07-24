@@ -6,5 +6,5 @@ echo "By Jefe"
 echo "NextCloudPi Installer"
 clear
 echo "Installation de Cockpit"
-sudo apt install cockpit
+sudo apt install cockpit -y
 echo "Cockpit installer"
