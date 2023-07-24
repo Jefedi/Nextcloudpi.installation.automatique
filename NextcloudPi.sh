@@ -8,3 +8,8 @@ sudo curl -sSL https://raw.githubusercontent.com/nextcloud/nextcloudpi/master/in
 clear 
 echo "By Jefe"
 echo "NextCloudPi Installer"
+clear
+echo "Installation de Cockpit"
+sudo apt install cockpit
+echo "Cockpit installer"
+clear
